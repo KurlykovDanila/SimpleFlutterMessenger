@@ -1,4 +1,4 @@
-# dima_messager
+# Simple Flutter Messenger
 
 A new Flutter project.
 
